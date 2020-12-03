@@ -14,4 +14,23 @@ div#wall #tag-2 {
 /*  display: none;*/
 /*}*/
 
-#wall
+
+#wall .parent #tag-5 {
+  display:none;
+}
+
+
+  <div class="parent">
+      <div id="tag-5" class="slick"></div>
+    </div>
+    <div class="parent">
+      <div></div>
+      <div>
+        <div id="tag-6"></div>
+      </div>
+    </div>
+    <div class="parent">
+      <div>
+        <div id="tag-7" class="slick"></div>
+      </div>
+      <div></div>
