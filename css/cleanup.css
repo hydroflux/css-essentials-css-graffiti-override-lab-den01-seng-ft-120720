@@ -15,7 +15,7 @@ div#wall #tag-2 {
 /*}*/
 
 
-#wall .parent #tag-5 {
+div#wall .parent div#tag-5 {
   display:none;
 }
 
