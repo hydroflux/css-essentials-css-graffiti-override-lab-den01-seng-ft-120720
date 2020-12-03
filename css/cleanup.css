@@ -20,7 +20,7 @@ div#wall .parent div#tag-5.slick {
 }
 
 
-div#wall div.parent div:last-child div#-6 {
+div#wall div.parent div:last-child div#-6.override {
   display:none;
 }
 
